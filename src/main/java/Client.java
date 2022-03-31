@@ -9,11 +9,27 @@ public class Client {
         this.timeService = timeService;
     }
 
+    @Override
+    public String toString() {
+        return  "(" + ID +
+                ", " + timeArrival +
+                ", " + timeService +
+                ')';
+    }
+
     public int getTimeArrival() {
         return timeArrival;
     }
 
     public int getTimeService() {
         return timeService;
+    }
+
+    public int getID() {
+        return ID;
+    }
+
+    public void decreaseTimeService() {
+        this.timeService--;
     }
 }

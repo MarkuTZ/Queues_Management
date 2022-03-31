@@ -1,0 +1,246 @@
+SIMULATION TIME: 0
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 1
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 2
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 3
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 4
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 5
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 6
+(1, 27, 3) (2, 13, 2) (3, 7, 3) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 7
+(1, 27, 3) (2, 13, 2) (4, 12, 3) 
+Q[1] = [3, 7, 2] {2}
+Q[2] = {0}
+SIMULATION TIME: 8
+(1, 27, 3) (2, 13, 2) (4, 12, 3) 
+Q[1] = [3, 7, 1] {1}
+Q[2] = {0}
+SIMULATION TIME: 9
+(1, 27, 3) (2, 13, 2) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 10
+(1, 27, 3) (2, 13, 2) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 11
+(1, 27, 3) (2, 13, 2) (4, 12, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 12
+(1, 27, 3) (2, 13, 2) 
+Q[1] = [4, 12, 2] {2}
+Q[2] = {0}
+SIMULATION TIME: 13
+(1, 27, 3) 
+Q[1] = [4, 12, 1] {1}
+Q[2] = [2, 13, 1] {1}
+SIMULATION TIME: 14
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 15
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 16
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 17
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 18
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 19
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 20
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 21
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 22
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 23
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 24
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 25
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 26
+(1, 27, 3) 
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 27
+
+Q[1] = [1, 27, 2] {2}
+Q[2] = {0}
+SIMULATION TIME: 28
+
+Q[1] = [1, 27, 1] {1}
+Q[2] = {0}
+SIMULATION TIME: 29
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 30
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 31
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 32
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 33
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 34
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 35
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 36
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 37
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 38
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 39
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 40
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 41
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 42
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 43
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 44
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 45
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 46
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 47
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 48
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 49
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 50
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 51
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 52
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 53
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 54
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 55
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 56
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 57
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 58
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 59
+
+Q[1] = {0}
+Q[2] = {0}
+SIMULATION TIME: 60
+
+Q[2] NO CLIENTS: 1 WAITING TIME: 0 AVERAGE WAITING TIME: 0.0
+Q[1] NO CLIENTS: 3 WAITING TIME: 0 AVERAGE WAITING TIME: 0.0
+Q[1] = {0}
+Q[2] = {0}
