@@ -33,22 +33,3 @@ public class Controller implements ActionListener {
         }
     }
 }
-
-class ProgressBarTask extends SwingWorker<String, Integer> {
-    private View view;
-    private int step;
-    ProgressBarTask(View view, int step) {
-        this.view = view;
-        this.step = step;
-    }
-    @Override
-    protected String doInBackground() throws Exception {
-        int n = 0;
-        while (n <= 100) {
-            view.setProgressBar(n);
-            n += step;
-            Thread.sleep(1000);
-        }
-        return "null";
-    }
-}

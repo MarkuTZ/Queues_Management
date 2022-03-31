@@ -6,7 +6,6 @@ public class Queue implements Runnable{
     private int qID;
     private BlockingQueue<Client> clients;
     private AtomicInteger qTime = new AtomicInteger(0);
-    private AtomicInteger qSimTime = new AtomicInteger(0);
     private int waitingTime = 0;
     private boolean simEnded = false;
 
@@ -28,7 +27,6 @@ public class Queue implements Runnable{
                 Thread.sleep(1000);
             } catch (InterruptedException e) {}
 
-            qSimTime.incrementAndGet();
         }
         //System.out.println("Q[" + qID + "] NO CLIENTS: " + noClients + " WAITING TIME: " + waitingTime +
         //        " AVERAGE WAITING TIME: "  + 1.*waitingTime/noClients);

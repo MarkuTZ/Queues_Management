@@ -1,15 +1,10 @@
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
-import java.io.File;
 import java.io.IOException;
-import java.io.LineNumberReader;
-import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
-import java.util.concurrent.BlockingQueue;
 import java.util.Random;
+import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
